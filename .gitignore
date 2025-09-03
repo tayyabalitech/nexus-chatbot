@@ -1,0 +1,32 @@
+# ==============================
+# Nexus Assistant - Git Ignore
+# ==============================
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled assets / temp files
+*.swp
+*.swo
+
+# Databases / uploads
+*.db
+*.sqlite3
